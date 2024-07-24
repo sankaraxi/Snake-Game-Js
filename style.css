@@ -7,7 +7,10 @@ body{
     font-family: 'VT323', monospace; 
 }
 
-body,
+body{
+    background-color: #0c0c0c;
+
+}
 .snake{
     background-color: #0c0c0c;
 }
@@ -21,15 +24,15 @@ body,
 }
 
 .game-border-1{
-    border: 10px solid #595743;
+    border: 10px solid #25ff9d;
     border-radius: 30px;
-    box-shadow: inset 0 0 0 10px #595743;
+    box-shadow: inset 0 0 0 10px #25ff9d;
 }
 
 .game-border-2{
-    border: 8px solid #72b4ca;
+    border: 8px solid #8ab4eb;
     border-radius: 26px;
-    box-shadow: inset 0 0 0 10px #72b4ca;
+    box-shadow: inset 0 0 0 10px #8ab4eb;
 }
 
 .game-border-3{
