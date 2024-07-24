@@ -9,7 +9,7 @@ body{
 
 body,
 .snake{
-    background-color: #414141;
+    background-color: #0c0c0c;
 }
 
 #game-board{
@@ -27,15 +27,15 @@ body,
 }
 
 .game-border-2{
-    border: 8px solid #abb76a;
+    border: 8px solid #72b4ca;
     border-radius: 26px;
-    box-shadow: inset 0 0 0 10px #abb76a;
+    box-shadow: inset 0 0 0 10px #72b4ca;
 }
 
 .game-border-3{
-    border: 30px solid #8b966c;
+    border: 30px solid #615bce;
     border-radius: 20px;
-    box-shadow: inset 0 0 0 10px #8b966c;
+    box-shadow: inset 0 0 0 6px #667fc5;
 }
 
 #instruction-text{
@@ -56,7 +56,7 @@ body,
 }
 
 #score{
-    color: #abb76a;
+    color: #5fe9de;
 }
 
 #score, 
@@ -73,11 +73,11 @@ body,
 
 .game-border-3,
 #logo{
-    background-color: #c4cfa3;
+    background-color: #5fe9de;
 }
 
 .snake{
-    border: #5a5a5a 2px solid;
+    border: #5a5a5a 1px dotted;
 }
 
 .food{
